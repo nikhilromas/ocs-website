@@ -65,42 +65,9 @@ align-items: center;
   width: 1230px;
   left: 400px;
   display: flex;
+  justify-content: space-between;
 } 
-.navigation1{
-  width: 192.133px;
-  height: 62.8px;
-}
-
-.navigation2{
-  width: 162.267px;
-  height: 62.8px;
-} 
-.navigation3{
-  width: 166.45px;
-  height: 62.8px;
-} 
-.navigation4{
-  width: 210.133px;
-  height: 62.8px;
-}
-.navigation5{
-  width: 144.5px;
-  height: 62.8px;
-}
-.navigation6{
-  width: 144.117px;
-  height: 62.8px;
-} 
-.navigation7{
-  width: 163.4px;
-  height: 62.8px;
-
-}
-.navigation8{
-  width: 191.4px;
-  height: 62.8px;
-
-}  
+ 
 .main a{
   text-decoration: none;
   margin-left: 20px;
